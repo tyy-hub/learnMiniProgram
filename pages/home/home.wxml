@@ -1,3 +1,4 @@
-<!--pages/home/home.wxml-->
 <text class="title">{{value}}</text>
 <button size="mini" bindtap="change">btn</button>
+
+<view>知识点一</view>
